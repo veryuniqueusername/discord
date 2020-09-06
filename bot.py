@@ -42,4 +42,4 @@ async def kick(ctx):
     else:
         await ctx.send("gitgud")
 
-bot.run('NzUxOTAwMDc4NTc0NDAzNzI1.X1PzhA.sXgdEtbNHMtSUxPx5j1h2MkXATc')
+bot.run('token')
